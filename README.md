@@ -6,7 +6,7 @@
   - Storybook → UI 테스트(디자인가이드 테스트)
   - 현업 테스트코드 작성법 및 활용법(테스트 자동화 및 배포, 프론트엔드 TDD 등)
 - 강의 자료
-  - 별도 노션 페이지 및 GitHub 소스 코드 참고
+  - 별도 노션 페이지 및 [GitHub 소스 코드](https://github.com/jasonkang14/react-basics) 참고
 
 ## 테스트코드란?
 
